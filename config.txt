@@ -1,0 +1,7 @@
+Rotacao_Max=3550
+Rotacao_Min=1750
+Rotacao_Fixa=2420
+Rotacao_Real=0
+Rotacao_Ideal=2650
+Angulo_Min=93
+Angulo_Max=175
